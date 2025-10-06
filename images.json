@@ -1,0 +1,87 @@
+[
+  {
+    "image_name": "hero-athlete-energy.jpg",
+    "aspect": "landscape",
+    "description": "High-contrast twilight scene of an elite endurance cyclist sprinting through a misty urban street, illuminated by crimson neon lights and dynamic motion blur, emphasizing power, speed, and determination."
+  },
+  {
+    "image_name": "product-shot-performance.jpg",
+    "aspect": "portrait",
+    "description": "Macro studio photograph of a 90 mL sleek performance borscht shot bottle with metallic red cap, subtle condensation, faint steam curling upward, and hints of dill garnish on a matte black surface with dramatic rim lighting."
+  },
+  {
+    "image_name": "product-shot-mix.jpg",
+    "aspect": "landscape",
+    "description": "Flat-lay composition of borscht powder sachets on dark slate with beet powder artfully dusted, a polished measuring spoon, glass carafe of hot water, and scattered herb sprigs lit by soft overhead light."
+  },
+  {
+    "image_name": "product-shot-gel.jpg",
+    "aspect": "landscape",
+    "description": "Dynamic action shot of isotonic gel packets mid-air against a dark gradient background with suspended droplets, highlighting portability and savory beet flavors with streaks of crimson light."
+  },
+  {
+    "image_name": "product-shot-broth.jpg",
+    "aspect": "portrait",
+    "description": "Cinematic close-up of recovery borscht broth in a double-walled glass mug with rising steam, surrounded by sliced beets, dill, and peppercorns on a charred wood table lit by warm moody lighting."
+  },
+  {
+    "image_name": "science-pathway-diagram.png",
+    "aspect": "landscape",
+    "description": "Stylized infographic diagram illustrating nitrate to nitrite to nitric oxide pathway with glowing vascular silhouettes of an athlete, molecular icons, and annotated arrows on a dark futuristic grid background."
+  },
+  {
+    "image_name": "protocol-endurance.jpg",
+    "aspect": "landscape",
+    "description": "Montage of endurance cyclists prepping gear at dawn, organizing nutrition bottles and checklists beside their bikes, with cool blue ambient light accented by crimson highlights."
+  },
+  {
+    "image_name": "protocol-hiit.jpg",
+    "aspect": "landscape",
+    "description": "High-intensity training scene in an industrial gym where an athlete chalks hands before a workout, particles suspended in warm red light beams with dramatic shadows."
+  },
+  {
+    "image_name": "protocol-masters.jpg",
+    "aspect": "landscape",
+    "description": "Confident masters athlete stretching on a rooftop at sunrise, city skyline in the background, soft golden light and subtle crimson accents conveying longevity and poise."
+  },
+  {
+    "image_name": "protocol-altitude.jpg",
+    "aspect": "landscape",
+    "description": "Trail runner training at high altitude on a ridge with dramatic snow-capped mountains and crimson dawn sky, emphasizing resilience and adventure."
+  },
+  {
+    "image_name": "journal-research.jpg",
+    "aspect": "landscape",
+    "description": "Editorial laboratory setup with beakers and test tubes containing vivid beet pigments under neon magenta and teal lighting, highlighting scientific rigor."
+  },
+  {
+    "image_name": "journal-athlete-story.jpg",
+    "aspect": "portrait",
+    "description": "Portrait of elite triathlete smiling post-race with medal and branded borscht bottle, sweat glistening and background blurred stadium lights."
+  },
+  {
+    "image_name": "journal-recipe.jpg",
+    "aspect": "landscape",
+    "description": "Overhead shot of vibrant beet soup garnished with dill, citrus zest, and a dollop of yogurt on a dark stone table with rustic spoons and sliced rye bread."
+  },
+  {
+    "image_name": "testimonials-athletes.jpg",
+    "aspect": "landscape",
+    "description": "Collage of diverse athlete headshots arranged in geometric grid with subtle brand gradient overlay of deep reds and purples, conveying community and trust."
+  },
+  {
+    "image_name": "cta-bundle.jpg",
+    "aspect": "landscape",
+    "description": "Product bundle arrangement featuring bottles, gel packets, and powder sachets on a matte black surface with glowing rim light, condensation, and bold shadows."
+  },
+  {
+    "image_name": "faq-savory.jpg",
+    "aspect": "portrait",
+    "description": "Cozy close-up of athlete's hands cradling a steaming savory borscht mug, showing texture of the drink and soft knit sleeves in warm lighting."
+  },
+  {
+    "image_name": "logo-placeholder.png",
+    "aspect": "square",
+    "description": "Minimalist Borscht of Energy logo featuring stylized beet lightning bolt icon and modern sans-serif typography in deep crimson on transparent background."
+  }
+]
