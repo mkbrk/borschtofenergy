@@ -100,6 +100,8 @@ a:focus {
     text-transform: uppercase;
     letter-spacing: 0.08em;
     color: var(--text-muted);
+    background: rgba(255, 255, 255, 0.04);
+    overflow: hidden;
 }
 
 .logo-placeholder.small {
@@ -254,6 +256,23 @@ a:focus {
     text-transform: uppercase;
     position: relative;
     overflow: hidden;
+    background: rgba(255, 255, 255, 0.04);
+}
+
+.image-placeholder img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.image-placeholder.has-image {
+    border: none;
+    background: none;
+}
+
+.image-placeholder.has-image::after {
+    display: none;
 }
 
 .image-placeholder::after {
@@ -281,6 +300,18 @@ a:focus {
 .cta-content .image-placeholder {
     max-width: 520px;
     margin: 0 auto 36px;
+}
+
+.logo-placeholder.has-image {
+    border: none;
+    background: none;
+}
+
+.logo-placeholder img {
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    display: block;
 }
 
 .section {
