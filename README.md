@@ -5,7 +5,7 @@ This repository hosts the static marketing site for the Borscht of Energy brand.
 ## Preview locally
 
 ```bash
-python -m http.server 8000
+python server.py
 ```
 
 Open <http://localhost:8000> in your browser to preview the site.
